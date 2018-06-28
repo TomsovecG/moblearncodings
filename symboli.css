@@ -1,0 +1,24 @@
+/* CSS Document */
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    size: 150;
+    display: inline-block;
+    padding: 3px;
+}
+.down {
+    transform: rotate(45deg);
+    -webkit- transform: rotate(45deg);
+    size: 15;
+     width: 24px !important;
+    height: 24px !important;
+    color: #fff;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}  
+#downwhite {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    color: white;
+    left: 3px;
+}

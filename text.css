@@ -1,0 +1,14 @@
+/* CSS Document */
+a {
+  color: #0cb1f2;
+  text-decoration: none;
+  size: 46;
+}
+a:hover {
+   color: #3f6f82;
+   text-decoration: none;
+   size: 48;
+}
+#red {
+  color: red;
+}

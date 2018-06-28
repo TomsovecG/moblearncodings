@@ -1,0 +1,168 @@
+h1 {
+  color: red;
+  letter-spacing: 2px;
+}
+h2 {
+   font-size: 54;
+}
+.whitediv {
+  background: white;
+}
+.reddiv {
+  background: #ce0f0c;
+  border-style: solid;
+  border-color: red;
+  border-left: 3px;
+  border-right: 3px;
+  border-top: 10px;
+  border-bottom: 10px;
+  bottom: 10px;
+  top: 1px;
+}
+.whitetext {
+  background: white;
+}
+#white {
+  background: white;
+}
+.hrwhite {
+  background: white;
+}
+.hrred {
+  background: red;
+}
+h3 {
+   color: blue;
+}
+body {
+    background-color: white;
+}
+p {
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    color: #4286f4;
+}
+ul {
+  list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: #008CBA;
+}
+.border {
+   border-style: solid;
+   border-color: black;
+}
+button {
+   background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+button:hover {
+  background-color: #278236 ;
+    border: none;
+    color: white;
+    padding: 17px 37px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.buttonr {
+  background-color: #cc1812; /* Red */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.buttonr:hover {
+  background-color: #960904; /* Red */
+    border-style: solid;
+    border-color: black;
+    border-size: 1px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.buttonb {
+   background-color: #0918ef; /* blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.buttonb:hover {
+   background-color: #1c2272; /* blue */
+    border-style: solid;
+    border-color: black;
+    border-size: 1px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.alias {cursor: alias;}
+.all-scroll {cursor: all-scroll;}
+.auto {cursor: auto;}
+.cell {cursor: cell;}
+.context-menu {cursor: context-menu;}
+.col-resize {cursor: col-resize;}
+.copy {cursor: copy;}
+.crosshair {cursor: crosshair;}
+.default {cursor: default;}
+.e-resize {cursor: e-resize;}
+.ew-resize {cursor: ew-resize;}
+.grab {cursor: grab;}
+.grabbing {cursor: grabbing;}
+.help {cursor: help;}
+.move {cursor: move;}
+.n-resize {cursor: n-resize;}
+.ne-resize {cursor: ne-resize;}
+.nesw-resize {cursor: nesw-resize;}
+.ns-resize {cursor: ns-resize;}
+.nw-resize {cursor: nw-resize;}
+.nwse-resize {cursor: nwse-resize;}
+.no-drop {cursor: no-drop;}
+.none {cursor: none;}
+.not-allowed {cursor: not-allowed;}
+.pointer {cursor: pointer;}
+.progress {cursor: progress;}
+.row-resize {cursor: row-resize;}
+.s-resize {cursor: s-resize;}
+.se-resize {cursor: se-resize;}
+.sw-resize {cursor: sw-resize;}
+.text {cursor: text;}
+.url {cursor: url(myBall.cur),auto;}
+.w-resize {cursor: w-resize;}
+.wait {cursor: wait;}
+.zoom-in {cursor: zoom-in;}
+.zoom-out {cursor: zoom-out;}

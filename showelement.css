@@ -1,0 +1,9 @@
+/* CSS Document */
+.bottomdiv
+{
+filter : alpha(opacity=100);
+bottom: 0;
+}
+.hide {
+  display: block;
+}

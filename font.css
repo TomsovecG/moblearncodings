@@ -1,0 +1,8 @@
+
+@font-face {
+    font-family: 'font'; /*a name to be used later*/
+    src: url('font.ttf'); /*URL to font*/
+}
+.font {
+    font-family: 'font';
+}
